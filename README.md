@@ -5,6 +5,9 @@ I recommend using the IntelliJ ide for this as it seems to be the fastest when i
 go into the tests package and then into the InterestTest.java file. Go down to the error and right click on it. Then click show context actions.
 After that just click add JUnit5 to classpath and follow the steps. After adding the dependency IntelliJ lets you run the entire
 class this will allow all the tests to run, the outcome will be 11/11 tests passed.
+
+
+
 Write a java program that calculates Credit Card interest for a Person.  
  
 Card Types and interest charged
